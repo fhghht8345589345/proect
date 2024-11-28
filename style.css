@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header .container {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.header__right {
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+
+.schapka ul {
+display: flex;
+
+
+}
+
+.schapka ul  li {
+display: flex;
+margin-left: 30px;
+
+
+}
+
+.kartinki{
+display: flex;
+margin-left:30px ;
+align-items: center;
+
+}
+
+
+.baton1{
+    padding: 16px 24px 16px 24px;
+    border-radius: 125px ;
+    background: #091156;
+    color: whitesmoke;
+    
+
+
+}
+
+.baton2 {
+    padding: 16px 20px 16px 20px;
+    border-radius: 125px ;
+    background: whitesmoke;
+    color: black;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
