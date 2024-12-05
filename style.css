@@ -108,7 +108,7 @@ width: 600px;
 height: 600px;
 background-repeat: no-repeat;
 bottom: 0;
-
+z-index: -1;
 }
 header:before {
 content: "";
@@ -118,20 +118,60 @@ height: 400px;
 background-repeat: no-repeat;
 right: 0;
 background: url(img/Group\ 5.png);
+
 }
 
+.pk__main h1 {
+    font-size: 54px;
+    font-weight: 900;
+    line-height: 54px;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 30px;
+}
+
+.pk__main h3 {
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 29.4px;
+    text-align: center;
+
+}
+
+.batin__item{
+background: rgba(255, 255, 255, 0.1);
+display: flex;
+align-items: center;
+border-radius: 10px;
+padding: 10px;
+margin: 30px;
+transition: 0.8s;
+}
+
+.batin__part{
+display: flex;
+justify-content: center;
+
+}
+
+.batin__left {
+margin-right: 10px;
 
 
+}
 
+.batin__title{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27.28px;
+    text-align: left;
+}
 
+.batin__item:hover {
+background: #FFFFFF;
+color: black;
 
-
-
-
-
-
-
-
+}
 
 
 
