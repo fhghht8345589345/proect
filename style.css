@@ -183,6 +183,8 @@ margin: 0 auto;
 border-radius: 30px;
 align-items: center;
 padding-left: 40px;
+position: relative;
+margin-top: -85px;
 }
 
 
@@ -192,9 +194,8 @@ padding-left: 40px;
     font-weight: 900;
     line-height: 35.2px;
     text-align: left;
-    
-
-
+    margin-right: 40px;
+    width: 50%;
 }
 
 
@@ -204,11 +205,23 @@ padding-left: 40px;
     font-weight: 700;
     line-height: 27.28px;
     text-align: left;
+    width: 30%;
+    position: absolute;
+    left: 50%;
 }
 
+.k1 {
+position: absolute;
+right: 0;
 
 
+}
 
+.c4{
+border-radius: 30px;
+
+
+}
 
 
 
