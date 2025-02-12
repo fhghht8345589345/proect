@@ -1,16 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body{
     font-family:  Nunito;
-    
-    
-    
-    }
-    
-    
-    
-    
-    * {
-        margin: 0;
-        padding: 0;
+    background: #F3F7FC;
     }
     
     header .container {
@@ -260,13 +255,12 @@ body{
     
     .rocet__baton {
     padding: 18px 24px 18px 24px;
-    gap: 8.57px;
     border-radius: 107.14px;
     background: #E9F2FC;
-    
     color:#091156;
-    
+    width: 157px;
     margin-top: 50px;
+    margin-bottom: 27px;
     
     }
     
@@ -303,11 +297,9 @@ body{
     line-height: 57.29px;
     text-align: left;
     color: #091156;
-    
-    
-    
-    
-    
+    margin-top: 50px;
+    margin-bottom: 50px;
+
     }
     
     
@@ -318,11 +310,18 @@ body{
     }
     
     
+    .rocet__item{
+border-radius: 40px;
+padding: 20px;
+    }
     
     
     
-    
-    
+    .rocet__top img {
+        width: 199px;
+        height: 199px;
+        margin-right: 40px;
+    }
     
     
     
