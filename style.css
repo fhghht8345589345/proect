@@ -453,7 +453,11 @@ width: 30%;
     }
     
 
+.tv_smesharik__main{
+display: flex;
+justify-content: space-between;
 
+}
 
 
 
