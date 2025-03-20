@@ -449,7 +449,7 @@ width: 30%;
     display:flex;
     justify-content: center;
     align-items: center;
-    
+    transition: 1s;
     }
     
 
@@ -475,6 +475,7 @@ justify-content: space-between;
     color: #091156;    
     margin-right: 30px;
     margin-top: 20px;
+    transition: 1s;
 }
 
 .yu{
@@ -508,6 +509,7 @@ line-height: 100%;
 letter-spacing: 0%;
 color: #091156;
     margin-top: 30px;
+    transition: 1s;
 }
 
 .hh{
@@ -562,9 +564,71 @@ color: #091156;
 
 
 
+.logo_futer {
+    font-family: Nunito;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #1F1B2F;
+}
+
+
+.futer_top ul {
+display: flex;
+align-items: center;
 
 
 
 
+}
 
-    
+  .futer_top {
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+  }  
+
+.futer_top ul li {
+margin-left: 40px;
+list-style-type:none ;
+
+
+}
+
+.futer_batonj{
+display: flex;
+justify-content: space-between;
+margin-top: 40px;
+list-style-type:none ;
+}
+
+
+.poiu ul li{
+    list-style-type:none ;
+
+}
+
+.butikv:hover {
+transform: scale(1.2);
+
+
+
+}
+
+.postap:hover{
+    transform: scale(1.2);
+}
+
+
+.batontv:hover{
+    transform: scale(1.2);
+
+
+}
+footer{
+    background: #E9F2FC;
+    margin-top: 20px;
+    padding-top: 20px;
+} 
